@@ -1,0 +1,51 @@
+No,Nama Perusahaan,KODE,BIDANG,ROA,ROE,DAR,DER,CR,QR,Status Pendapatan
+1,PT Argha Karya Prima Ind. Tbk,AKPI,plastik dan kemasan,-0.017,-0.036,0.538,1.166,1.982,1.223,Rugi
+2,PT Alkindo Naratama Tbk,ALDO,pulp dan kertas,0.011,0.02,0.42,0.724,6.582,3.742,Laba
+3,PT Alumindo Light Metal Industry Tbk,ALMI,logam,0.029,-1.256,1.023,-44.2,6.772,2.509,Laba
+4,PT Asiaplast Industries Tbk,APLI,plastik dan kemasan,0.005,0.01,0.503,1.011,1.196,0.692,Laba
+5,PT Arwana Citramulia Tbk,ARNA,keramik dan kaca,0.038,0.062,0.385,0.627,9.996,8.968,Laba
+6,PT Ekadharma International Tbk,EKAD,kimia,0.03,0.034,0.115,0.131,11.689,8.121,Laba
+7,PT Intikeramik Alamasri Industri Tbk,IKAI,keramik dan kaca,-0.023,-0.035,0.332,0.497,0.284,0.131,Rugi
+8,PT Indah Kiat Pulp & Paper Tbk,INKP,pulp dan kertas,0.021,0.043,0.501,1.006,1.68,1.531,Laba
+9,PT Indocement Tunggal Prakarsa Tbk,INTP,semen,0.015,0.017,0.142,0.166,18.174,15.277,Laba
+10,PT JAPFA Comfeed Indonesia Tbk,JPFA,agribisnis,0.013,0.032,0.058,0.139,1.639,0.905,Laba
+11,PT Malindo Feedmill Tbk,MAIN,pakan ternak,0.003,0.007,0.582,1.39,2.606,1.555,Laba
+12,PT Solusi Bangun Indonesia Tbk,SMCB,semen,0.003,0.01,0.637,1.759,0.318,0.198,Laba
+13,PT SLJ Global Tbk,SULI,kayu dan pengolahannya,-0.053,2.62,1.02,-50.154,7.753,2.442,Rugi
+14,PT Tirta Mahakam Resources Tbk,TIRT,kayu dan pengolahannya,-0.192,1.314,1.146,-7.827,1.906,0.432,Rugi
+15,PT Chandra Asri Petrochemical Tbk,TPIA,kimia,-0.005,-0.01,0.489,0.958,1.467,1.151,Rugi
+16,PT Akasha Wira International Tbk,ADES,makanan dan minuman,0.025,0.036,0.304,0.436,5.374,4.323,Laba
+17,PT Astra International Tbk,ASII,otomotif dan komponen,0.015,0.029,0.466,0.872,1.77,1.438,Laba
+18,PT Primarindo Asia Infrastructure Tbk,BIMA,alas kaki,-0.08,-0.456,0.824,4.691,0.559,0.125,Rugi
+19,PT Darya-Varia Laboratoria Tbk,DVLA,farmasi,0.029,0.042,0.304,0.437,11.882,9.122,Laba
+20,PT Gajah Tunggal Tbk,GJTL,otomotif dan komponen,-0.019,-0.067,0.703,2.372,1.201,0.859,Rugi
+21,PT Indofood CBP Sukses Makmur Tbk,ICBP,makanan dan minuman,0.05,0.073,0.316,0.463,3.299,2.716,Laba
+22,PT Indofarma (Persero) Tbk,INAF,farmasi,-0.015,-0.044,0.655,1.901,2.189,1.757,Rugi
+23,PT Kabelindo Murni Tbk,KBLM,kabel,0.002,0.003,0.317,0.464,38.797,17.532,Laba
+24,PT Martina Berto Tbk,MBTO,kosmetik,-0.041,-0.115,0.643,1.8,2.972,1.783,Rugi
+25,PT Asia Pacific Investama Tbk,MYTX,tekstil dan garmen,-0.0003,-0.004,0.909,10.098,0.443,0.149,Rugi
+26,PT Asia Pacific Fibers Tbk,POLY,tekstil dan garmen,0.018,-0.005,4.931,-1.254,1.765,1.044,Laba
+27,PT Sat Nusapersada Tbk,PTSN,elektronika,0.003,0.004,0.619,0.965,2.175,1.017,Laba
+28,PT Mandom Indonesia Tbk,TCID,kosmetik,0.007,0.004,0.469,0.252,5.354,2.674,Laba
+29,PT Unilever Indonesia Tbk,UNVR,kosmetik,0.086,0.258,0.665,1.984,4.301,3.114,Laba
+30,PT Asahimas Flat Glass Tbk,AMFG,keramik dan kaca,-0.066,-0.205,0.676,2.088,0.72,0.314,Rugi
+31,PT Berlina Tbk,BRNA,plastik dan kemasan,-0.011,-0.027,0.581,1.332,1.587,1.039,Rugi
+32,PT Barito Pacific Tbk,BRPT,kimia,0.002,0.005,0.616,1.61,0.537,0.446,Laba
+33,PT Wilmar Cahaya Indonesia Tbk.,CEKA,makanan dan minuman,0.046,0.055,0.163,0.195,26.986,21.794,Laba
+34,PT Charoen Pokphand Indonesia Tbk,CPIN,agribisnis,0.029,0.042,0.285,0.398,5.88,3.893,Laba
+35,PT Citra Tubindo Tbk,CTBN,logam,0.009,0.013,0.332,0.498,10.069,2.668,Laba
+36,PT Delta Djakarta Tbk,DLTA,makanan dan minuman,0.029,0.034,0.131,0.151,24.411,20.543,Laba
+37,PT Duta Pertiwi Nusantara Tbk,DPNS,kimia,0.005,0.006,0.135,0.156,6.442,4.803,Laba
+38,PT Eratex Djaja Tbk,ERTX,tekstil dan garmen,0.008,0.029,0.732,2.728,2.378,1.136,Laba
+39,PT Fajar Surya Wisesa Tbk,FASW,pulp dan kertas,0.028,0.083,0.665,1.99,1.008,0.732,Laba
+40,PT Kimia Farma (Persero) Tbk,KAEF,farmasi,0.001,0.002,0.594,1.463,1.484,0.825,Laba
+41,PT KMI Wire and Cable Tbk,KBLI,kabel,-0.007,-0.009,0.218,0.28,7.319,4.72,Rugi
+42,PT Kedawung Setia Industrial Tbk,KDSI,peralatan rumah tangga,0.014,0.028,0.51,1.041,4.244,2.706,Laba
+43,PT Keramika Indonesia Assosiasi Tbk,KIAS,keramik dan kaca,-0.006,-0.007,0.194,0.24,6.27,4.978,Rugi
+44,PT Kedaung Indah Can Tbk,KICI,peralatan rumah tangga,-0.004,-0.007,0.458,0.846,1.89,0.669,Rugi
+45,PT Kalbe Farma Tbk,KLBF,farmasi,0.03,0.039,0.22,0.282,12.339,8.753,Laba
+46,PT Supreme Cable Manufacturing & Commerce Tbk,SCCO,kabel,0.027,0.034,0.214,0.272,51.385,33.98,Laba
+47,PT Sierad Produce Tbk,SIPD,pakan ternak,0.012,0.031,0.61,1.564,7.526,5.33,Laba
+48,PT Semen Baturaja (Persero) Tbk,SMBR,semen,-0.011,-0.019,0.397,0.659,0.755,0.499,Rugi
+49,PT Semen Indonesia (Persero) Tbk,SMGR,semen,0.005,0.012,0.562,1.283,0.482,0.331,Laba
+50,PT Pabrik Kertas Tjiwi Kimia Tbk,TKIM,pulp dan kertas,0.051,0.101,0.499,0.998,0.791,0.577,Laba
